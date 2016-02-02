@@ -6,6 +6,6 @@
 		{"trigger": "display\tpygame(Overlay) ", "contents": "pygame.Overlay.display(${1:y}, ${2:u}, ${3:v})"},
 		{"trigger": "display\tpygame(Overlay) ", "contents": "pygame.Overlay.display(${1:})"},
 		{"trigger": "get_hardware\tpygame(Overlay) ", "contents": "pygame.Overlay.get_hardware(${1:rect})"},
-		{"trigger": "set_location\tpygame(Overlay) ", "contents": "pygame.Overlay.set_location(${1:rect})"},
+		{"trigger": "set_location\tpygame(Overlay) ", "contents": "pygame.Overlay.set_location(${1:rect})"}
 	]
 }

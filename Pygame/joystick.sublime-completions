@@ -16,6 +16,6 @@
 		{"trigger": "get_numbuttons\tpygame(joystick) ", "contents": "pygame.joystick.get_numbuttons(${1:})"},
 		{"trigger": "get_numhats\tpygame(joystick) ", "contents": "pygame.joystick.get_numhats(${1:})"},
 		{"trigger": "init\tpygame(joystick) ", "contents": "pygame.joystick.init(${1:})"},
-		{"trigger": "quit\tpygame(joystick) ", "contents": "pygame.joystick.quit(${1:})"},
+		{"trigger": "quit\tpygame(joystick) ", "contents": "pygame.joystick.quit(${1:})"}
 	]
 }

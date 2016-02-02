@@ -23,6 +23,6 @@
 		{"trigger": "set_bold\tpygame(font) ", "contents": "pygame.font.set_bold(${1:bool})"},
 		{"trigger": "set_italic\tpygame(font) ", "contents": "pygame.font.set_italic(${1:bool})"},
 		{"trigger": "set_underline\tpygame(font) ", "contents": "pygame.font.set_underline(${1:bool})"},
-		{"trigger": "size\tpygame(font) ", "contents": "pygame.font.size(${1:text})"},
+		{"trigger": "size\tpygame(font) ", "contents": "pygame.font.size(${1:text})"}
 	]
 }

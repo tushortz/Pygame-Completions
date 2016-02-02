@@ -9,6 +9,6 @@
 		{"trigger": "name\tpygame(key) ", "contents": "pygame.key.name(${1:key})"},
 		{"trigger": "set_mods\tpygame(key) ", "contents": "pygame.key.set_mods(${1:int})"},
 		{"trigger": "set_repeat\tpygame(key) ", "contents": "pygame.key.set_repeat(${1:})"},
-		{"trigger": "set_repeat\tpygame(key) ", "contents": "pygame.key.set_repeat(${1:delay}, ${2:interval})"},
+		{"trigger": "set_repeat\tpygame(key) ", "contents": "pygame.key.set_repeat(${1:delay}, ${2:interval})"}
 	]
 }

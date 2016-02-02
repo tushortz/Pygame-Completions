@@ -26,6 +26,6 @@
 		{"trigger": "union\tpygame(Rect) ", "contents": "pygame.Rect.union(${1:Rect})"},
 		{"trigger": "union_ip\tpygame(Rect) ", "contents": "pygame.Rect.union_ip(${1:Rect})"},
 		{"trigger": "unionall\tpygame(Rect) ", "contents": "pygame.Rect.unionall(${1:Rect_sequence})"},
-		{"trigger": "unionall_ip\tpygame(Rect) ", "contents": "pygame.Rect.unionall_ip(${1:Rect_sequence})"},
+		{"trigger": "unionall_ip\tpygame(Rect) ", "contents": "pygame.Rect.unionall_ip(${1:Rect_sequence})"}
 	]
 }

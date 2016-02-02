@@ -22,6 +22,6 @@
 		{"trigger": "play\tpygame(cdrom) ", "contents": "pygame.cdrom.play(${1:track}, ${2:start=None}, ${3:end=None})"},
 		{"trigger": "quit\tpygame(cdrom) ", "contents": "pygame.cdrom.quit(${1:})"},
 		{"trigger": "resume\tpygame(cdrom) ", "contents": "pygame.cdrom.resume(${1:})"},
-		{"trigger": "stop\tpygame(cdrom) ", "contents": "pygame.cdrom.stop(${1:})"},
+		{"trigger": "stop\tpygame(cdrom) ", "contents": "pygame.cdrom.stop(${1:})"}
 	]
 }

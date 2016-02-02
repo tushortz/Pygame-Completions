@@ -25,6 +25,6 @@
 		{"trigger": "set_palette\tpygame(display) ", "contents": "pygame.display.set_palette(${1:palette=None})"},
 		{"trigger": "toggle_fullscreen\tpygame(display) ", "contents": "pygame.display.toggle_fullscreen(${1:})"},
 		{"trigger": "update\tpygame(display) ", "contents": "pygame.display.update(${1:rectangle=None})"},
-		{"trigger": "update\tpygame(display) ", "contents": "pygame.display.update(${1:rectangle_list})"},
+		{"trigger": "update\tpygame(display) ", "contents": "pygame.display.update(${1:rectangle_list})"}
 	]
 }

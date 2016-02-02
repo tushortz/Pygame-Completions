@@ -46,6 +46,6 @@
 		{"trigger": "use_bitmap_strikes\tpygame(freetype) ", "contents": "pygame.freetype.use_bitmap_strikes"},
 		{"trigger": "vertical\tpygame(freetype) ", "contents": "pygame.freetype.vertical"},
 		{"trigger": "was_init\tpygame(freetype) ", "contents": "pygame.freetype.was_init(${1:})"},
-		{"trigger": "wide\tpygame(freetype) ", "contents": "pygame.freetype.wide"},
+		{"trigger": "wide\tpygame(freetype) ", "contents": "pygame.freetype.wide"}
 	]
 }

@@ -58,6 +58,6 @@
 		{"trigger": "set_shifts\tpygame(Surface) ", "contents": "pygame.Surface.set_shifts(${1:r}, ${2:g}, ${3:b}, ${4:a})"},
 		{"trigger": "subsurface\tpygame(Surface) ", "contents": "pygame.Surface.subsurface(${1:Rect})"},
 		{"trigger": "unlock\tpygame(Surface) ", "contents": "pygame.Surface.unlock(${1:})"},
-		{"trigger": "unmap_rgb\tpygame(Surface) ", "contents": "pygame.Surface.unmap_rgb(${1:mapped_int})"},
+		{"trigger": "unmap_rgb\tpygame(Surface) ", "contents": "pygame.Surface.unmap_rgb(${1:mapped_int})"}
 	]
 }

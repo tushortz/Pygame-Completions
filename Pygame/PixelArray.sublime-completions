@@ -12,6 +12,6 @@
 		{"trigger": "shape\tpygame(PixelArray) ", "contents": "pygame.PixelArray.shape"},
 		{"trigger": "strides\tpygame(PixelArray) ", "contents": "pygame.PixelArray.strides"},
 		{"trigger": "surface\tpygame(PixelArray) ", "contents": "pygame.PixelArray.surface"},
-		{"trigger": "transpose\tpygame(PixelArray) ", "contents": "pygame.PixelArray.transpose(${1:})"},
+		{"trigger": "transpose\tpygame(PixelArray) ", "contents": "pygame.PixelArray.transpose(${1:})"}
 	]
 }

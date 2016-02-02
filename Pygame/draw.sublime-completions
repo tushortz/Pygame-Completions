@@ -10,6 +10,6 @@
 		{"trigger": "line\tpygame(draw) ", "contents": "pygame.draw.line(${1:Surface}, ${2:color}, ${3:start_pos}, ${4:end_pos}, ${5:width=1})"},
 		{"trigger": "lines\tpygame(draw) ", "contents": "pygame.draw.lines(${1:Surface}, ${2:color}, ${3:closed}, ${4:pointlist}, ${5:width=1})"},
 		{"trigger": "polygon\tpygame(draw) ", "contents": "pygame.draw.polygon(${1:Surface}, ${2:color}, ${3:pointlist}, ${4:width=0})"},
-		{"trigger": "rect\tpygame(draw) ", "contents": "pygame.draw.rect(${1:Surface}, ${2:color}, ${3:Rect}, ${4:width=0})"},
+		{"trigger": "rect\tpygame(draw) ", "contents": "pygame.draw.rect(${1:Surface}, ${2:color}, ${3:Rect}, ${4:width=0})"}
 	]
 }

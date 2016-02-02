@@ -30,6 +30,6 @@
 		{"trigger": "sound_array_demos.main\tpygame(examples) ", "contents": "pygame.examples.sound_array_demos.main(${1:arraytype=None})"},
 		{"trigger": "stars.main\tpygame(examples) ", "contents": "pygame.examples.stars.main(${1:})"},
 		{"trigger": "testsprite.main\tpygame(examples) ", "contents": "pygame.examples.testsprite.main(${1:update_rects = True}, ${2:use_static = False}, ${3:use_FastRenderGroup = False}, ${4:screen_dims = [640}, ${5:480]}, ${6:use_alpha = False}, ${7:flags = 0})"},
-		{"trigger": "vgrade.main\tpygame(examples) ", "contents": "pygame.examples.vgrade.main(${1:})"},
+		{"trigger": "vgrade.main\tpygame(examples) ", "contents": "pygame.examples.vgrade.main(${1:})"}
 	]
 }

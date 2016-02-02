@@ -8,6 +8,6 @@
 		{"trigger": "init \tpygame(scrap) ", "contents": "pygame.scrap.init (${1:})"},
 		{"trigger": "lost\tpygame(scrap) ", "contents": "pygame.scrap.lost(${1:})"},
 		{"trigger": "put\tpygame(scrap) ", "contents": "pygame.scrap.put(${1:type}, ${2:data})"},
-		{"trigger": "set_mode\tpygame(scrap) ", "contents": "pygame.scrap.set_mode(${1:mode})"},
+		{"trigger": "set_mode\tpygame(scrap) ", "contents": "pygame.scrap.set_mode(${1:mode})"}
 	]
 }

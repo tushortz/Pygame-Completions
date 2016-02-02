@@ -27,6 +27,6 @@
 		{"trigger": "set_blocked\tpygame(event) ", "contents": "pygame.event.set_blocked(${1:typelist})"},
 		{"trigger": "set_grab\tpygame(event) ", "contents": "pygame.event.set_grab(${1:bool})"},
 		{"trigger": "type\tpygame(event) ", "contents": "pygame.event.type"},
-		{"trigger": "wait\tpygame(event) ", "contents": "pygame.event.wait(${1:})"},
+		{"trigger": "wait\tpygame(event) ", "contents": "pygame.event.wait(${1:})"}
 	]
 }

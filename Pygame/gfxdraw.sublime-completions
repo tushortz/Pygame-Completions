@@ -23,6 +23,6 @@
 		{"trigger": "rectangle\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.rectangle(${1:surface}, ${2:rect}, ${3:color})"},
 		{"trigger": "textured_polygon\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.textured_polygon(${1:surface}, ${2:points}, ${3:texture}, ${4:tx}, ${5:ty})"},
 		{"trigger": "trigon\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.trigon(${1:surface}, ${2:x1}, ${3:y1}, ${4:x2}, ${5:y2}, ${6:x3}, ${7:y3}, ${8:color})"},
-		{"trigger": "vline\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.vline(${1:surface}, ${2:x}, ${3:y1}, ${4:y2}, ${5:color})"},
+		{"trigger": "vline\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.vline(${1:surface}, ${2:x}, ${3:y1}, ${4:y2}, ${5:color})"}
 	]
 }

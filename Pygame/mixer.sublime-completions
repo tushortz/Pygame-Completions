@@ -35,6 +35,6 @@
 		{"trigger": "set_volume\tpygame(mixer) ", "contents": "pygame.mixer.set_volume(${1:left}, ${2:right})"},
 		{"trigger": "set_volume\tpygame(mixer) ", "contents": "pygame.mixer.set_volume(${1:value})"},
 		{"trigger": "stop\tpygame(mixer) ", "contents": "pygame.mixer.stop(${1:})"},
-		{"trigger": "unpause\tpygame(mixer) ", "contents": "pygame.mixer.unpause(${1:})"},
+		{"trigger": "unpause\tpygame(mixer) ", "contents": "pygame.mixer.unpause(${1:})"}
 	]
 }

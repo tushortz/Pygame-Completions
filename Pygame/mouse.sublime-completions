@@ -9,6 +9,6 @@
 		{"trigger": "get_rel\tpygame(mouse) ", "contents": "pygame.mouse.get_rel(${1:})"},
 		{"trigger": "set_cursor\tpygame(mouse) ", "contents": "pygame.mouse.set_cursor(${1:size}, ${2:hotspot}, ${3:xormasks}, ${4:andmasks})"},
 		{"trigger": "set_pos\tpygame(mouse) ", "contents": "pygame.mouse.set_pos(${1:[x}, ${2:y]})"},
-		{"trigger": "set_visible\tpygame(mouse) ", "contents": "pygame.mouse.set_visible(${1:bool})"},
+		{"trigger": "set_visible\tpygame(mouse) ", "contents": "pygame.mouse.set_visible(${1:bool})"}
 	]
 }

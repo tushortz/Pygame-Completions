@@ -4,6 +4,6 @@
 	[
 		{"trigger": "compile\tpygame(cursors) ", "contents": "pygame.cursors.compile(${1:strings}, ${2:black='X'}, ${3:white='.'}, ${4:xor='o'})"},
 		{"trigger": "load_xbm\tpygame(cursors) ", "contents": "pygame.cursors.load_xbm(${1:cursorfile})"},
-		{"trigger": "load_xbm\tpygame(cursors) ", "contents": "pygame.cursors.load_xbm(${1:cursorfile}, ${2:maskfile})"},
+		{"trigger": "load_xbm\tpygame(cursors) ", "contents": "pygame.cursors.load_xbm(${1:cursorfile}, ${2:maskfile})"}
 	]
 }

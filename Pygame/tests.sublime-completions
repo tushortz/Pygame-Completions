@@ -2,6 +2,6 @@
 	"scope": "source.python",
 	"completions":
 	[
-		{"trigger": "run\tpygame(tests) ", "contents": "pygame.tests.run(${1:*args}, ${2:**kwds})"},
+		{"trigger": "run\tpygame(tests) ", "contents": "pygame.tests.run(${1:*args}, ${2:**kwds})"}
 	]
 }

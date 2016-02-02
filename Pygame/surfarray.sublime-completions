@@ -17,6 +17,6 @@
 		{"trigger": "pixels_blue \tpygame(surfarray) ", "contents": "pygame.surfarray.pixels_blue (${1:Surface})"},
 		{"trigger": "pixels_green \tpygame(surfarray) ", "contents": "pygame.surfarray.pixels_green (${1:Surface})"},
 		{"trigger": "pixels_red \tpygame(surfarray) ", "contents": "pygame.surfarray.pixels_red (${1:Surface})"},
-		{"trigger": "use_arraytype \tpygame(surfarray) ", "contents": "pygame.surfarray.use_arraytype (${1:arraytype})"},
+		{"trigger": "use_arraytype \tpygame(surfarray) ", "contents": "pygame.surfarray.use_arraytype (${1:arraytype})"}
 	]
 }

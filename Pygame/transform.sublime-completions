@@ -14,6 +14,6 @@
 		{"trigger": "scale2x\tpygame(transform) ", "contents": "pygame.transform.scale2x(${1:Surface}, ${2:DestSurface = None})"},
 		{"trigger": "set_smoothscale_backend\tpygame(transform) ", "contents": "pygame.transform.set_smoothscale_backend(${1:type})"},
 		{"trigger": "smoothscale\tpygame(transform) ", "contents": "pygame.transform.smoothscale(${1:Surface}, ${2:width}, ${3:height})"},
-		{"trigger": "threshold\tpygame(transform) ", "contents": "pygame.transform.threshold(${1:DestSurface}, ${2:Surface}, ${3:color}, ${4:threshold = 0}, ${5:0}, ${5:0}, ${5:0}, )"},
+		{"trigger": "threshold\tpygame(transform) ", "contents": "pygame.transform.threshold(${1:DestSurface}, ${2:Surface}, ${3:color}, ${4:threshold = 0}, ${5:0}, ${5:0}, ${5:0}, )"}
 	]
 }

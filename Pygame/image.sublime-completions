@@ -8,6 +8,6 @@
 		{"trigger": "load\tpygame(image) ", "contents": "pygame.image.load(${1:filename})"},
 		{"trigger": "load\tpygame(image) ", "contents": "pygame.image.load(${1:fileobj}, ${2:namehint=&#8221;&#8221;})"},
 		{"trigger": "save\tpygame(image) ", "contents": "pygame.image.save(${1:Surface}, ${2:filename})"},
-		{"trigger": "tostring\tpygame(image) ", "contents": "pygame.image.tostring(${1:Surface}, ${2:format}, ${3:flipped=False})"},
+		{"trigger": "tostring\tpygame(image) ", "contents": "pygame.image.tostring(${1:Surface}, ${2:format}, ${3:flipped=False})"}
 	]
 }

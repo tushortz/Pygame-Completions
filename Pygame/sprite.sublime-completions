@@ -52,6 +52,6 @@
 		{"trigger": "spritecollideany\tpygame(sprite) ", "contents": "pygame.sprite.spritecollideany(${1:sprite}, ${2:group}, ${3:collided = None})"},
 		{"trigger": "sprites\tpygame(sprite) ", "contents": "pygame.sprite.sprites(${1:})"},
 		{"trigger": "switch_layer\tpygame(sprite) ", "contents": "pygame.sprite.switch_layer(${1:layer1_nr}, ${2:layer2_nr})"},
-		{"trigger": "update\tpygame(sprite) ", "contents": "pygame.sprite.update(${1:*args})"},
+		{"trigger": "update\tpygame(sprite) ", "contents": "pygame.sprite.update(${1:*args})"}
 	]
 }
