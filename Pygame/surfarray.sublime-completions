@@ -1,0 +1,22 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "array2d\tpygame(surfarray) ", "contents": "pygame.surfarray.array2d(${1:Surface})"},
+		{"trigger": "array3d\tpygame(surfarray) ", "contents": "pygame.surfarray.array3d(${1:Surface})"},
+		{"trigger": "array_alpha\tpygame(surfarray) ", "contents": "pygame.surfarray.array_alpha(${1:Surface})"},
+		{"trigger": "array_colorkey\tpygame(surfarray) ", "contents": "pygame.surfarray.array_colorkey(${1:Surface})"},
+		{"trigger": "blit_array\tpygame(surfarray) ", "contents": "pygame.surfarray.blit_array(${1:Surface}, ${2:array})"},
+		{"trigger": "get_arraytype \tpygame(surfarray) ", "contents": "pygame.surfarray.get_arraytype (${1:})"},
+		{"trigger": "get_arraytypes \tpygame(surfarray) ", "contents": "pygame.surfarray.get_arraytypes (${1:})"},
+		{"trigger": "make_surface\tpygame(surfarray) ", "contents": "pygame.surfarray.make_surface(${1:array})"},
+		{"trigger": "map_array\tpygame(surfarray) ", "contents": "pygame.surfarray.map_array(${1:Surface}, ${2:array3d})"},
+		{"trigger": "pixels2d\tpygame(surfarray) ", "contents": "pygame.surfarray.pixels2d(${1:Surface})"},
+		{"trigger": "pixels3d\tpygame(surfarray) ", "contents": "pygame.surfarray.pixels3d(${1:Surface})"},
+		{"trigger": "pixels_alpha\tpygame(surfarray) ", "contents": "pygame.surfarray.pixels_alpha(${1:Surface})"},
+		{"trigger": "pixels_blue \tpygame(surfarray) ", "contents": "pygame.surfarray.pixels_blue (${1:Surface})"},
+		{"trigger": "pixels_green \tpygame(surfarray) ", "contents": "pygame.surfarray.pixels_green (${1:Surface})"},
+		{"trigger": "pixels_red \tpygame(surfarray) ", "contents": "pygame.surfarray.pixels_red (${1:Surface})"},
+		{"trigger": "use_arraytype \tpygame(surfarray) ", "contents": "pygame.surfarray.use_arraytype (${1:arraytype})"},
+	]
+}

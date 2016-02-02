@@ -1,0 +1,23 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "fadeout\tpygame(music) ", "contents": "pygame.music.fadeout(${1:time})"},
+		{"trigger": "get_busy\tpygame(music) ", "contents": "pygame.music.get_busy(${1:})"},
+		{"trigger": "get_endevent\tpygame(music) ", "contents": "pygame.music.get_endevent(${1:})"},
+		{"trigger": "get_pos\tpygame(music) ", "contents": "pygame.music.get_pos(${1:})"},
+		{"trigger": "get_volume\tpygame(music) ", "contents": "pygame.music.get_volume(${1:})"},
+		{"trigger": "load\tpygame(music) ", "contents": "pygame.music.load(${1:filename})"},
+		{"trigger": "load\tpygame(music) ", "contents": "pygame.music.load(${1:object})"},
+		{"trigger": "pause\tpygame(music) ", "contents": "pygame.music.pause(${1:})"},
+		{"trigger": "play\tpygame(music) ", "contents": "pygame.music.play(${1:loops=0}, ${2:start=0.0})"},
+		{"trigger": "queue\tpygame(music) ", "contents": "pygame.music.queue(${1:filename})"},
+		{"trigger": "rewind\tpygame(music) ", "contents": "pygame.music.rewind(${1:})"},
+		{"trigger": "set_endevent\tpygame(music) ", "contents": "pygame.music.set_endevent(${1:})"},
+		{"trigger": "set_endevent\tpygame(music) ", "contents": "pygame.music.set_endevent(${1:type})"},
+		{"trigger": "set_pos\tpygame(music) ", "contents": "pygame.music.set_pos(${1:pos})"},
+		{"trigger": "set_volume\tpygame(music) ", "contents": "pygame.music.set_volume(${1:value})"},
+		{"trigger": "stop\tpygame(music) ", "contents": "pygame.music.stop(${1:})"},
+		{"trigger": "unpause\tpygame(music) ", "contents": "pygame.music.unpause(${1:})"},
+	]
+}

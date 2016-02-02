@@ -1,0 +1,28 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "Font\tpygame(font) ", "contents": "pygame.font.Font(${1:filename}, ${2:size})"},
+		{"trigger": "Font\tpygame(font) ", "contents": "pygame.font.Font(${1:object}, ${2:size})"},
+		{"trigger": "SysFont\tpygame(font) ", "contents": "pygame.font.SysFont(${1:name}, ${2:size}, ${3:bold=False}, ${4:italic=False})"},
+		{"trigger": "get_ascent\tpygame(font) ", "contents": "pygame.font.get_ascent(${1:})"},
+		{"trigger": "get_bold\tpygame(font) ", "contents": "pygame.font.get_bold(${1:})"},
+		{"trigger": "get_default_font\tpygame(font) ", "contents": "pygame.font.get_default_font(${1:})"},
+		{"trigger": "get_descent\tpygame(font) ", "contents": "pygame.font.get_descent(${1:})"},
+		{"trigger": "get_fonts\tpygame(font) ", "contents": "pygame.font.get_fonts(${1:})"},
+		{"trigger": "get_height\tpygame(font) ", "contents": "pygame.font.get_height(${1:})"},
+		{"trigger": "get_init\tpygame(font) ", "contents": "pygame.font.get_init(${1:})"},
+		{"trigger": "get_italic\tpygame(font) ", "contents": "pygame.font.get_italic(${1:})"},
+		{"trigger": "get_linesize\tpygame(font) ", "contents": "pygame.font.get_linesize(${1:})"},
+		{"trigger": "get_underline\tpygame(font) ", "contents": "pygame.font.get_underline(${1:})"},
+		{"trigger": "init\tpygame(font) ", "contents": "pygame.font.init(${1:})"},
+		{"trigger": "match_font\tpygame(font) ", "contents": "pygame.font.match_font(${1:name}, ${2:bold=False}, ${3:italic=False})"},
+		{"trigger": "metrics\tpygame(font) ", "contents": "pygame.font.metrics(${1:text})"},
+		{"trigger": "quit\tpygame(font) ", "contents": "pygame.font.quit(${1:})"},
+		{"trigger": "render\tpygame(font) ", "contents": "pygame.font.render(${1:text}, ${2:antialias}, ${3:color}, ${4:background=None})"},
+		{"trigger": "set_bold\tpygame(font) ", "contents": "pygame.font.set_bold(${1:bool})"},
+		{"trigger": "set_italic\tpygame(font) ", "contents": "pygame.font.set_italic(${1:bool})"},
+		{"trigger": "set_underline\tpygame(font) ", "contents": "pygame.font.set_underline(${1:bool})"},
+		{"trigger": "size\tpygame(font) ", "contents": "pygame.font.size(${1:text})"},
+	]
+}

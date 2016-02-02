@@ -1,0 +1,13 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "frombuffer\tpygame(image) ", "contents": "pygame.image.frombuffer(${1:string}, ${2:size}, ${3:format})"},
+		{"trigger": "fromstring\tpygame(image) ", "contents": "pygame.image.fromstring(${1:string}, ${2:size}, ${3:format}, ${4:flipped=False})"},
+		{"trigger": "get_extended\tpygame(image) ", "contents": "pygame.image.get_extended(${1:})"},
+		{"trigger": "load\tpygame(image) ", "contents": "pygame.image.load(${1:filename})"},
+		{"trigger": "load\tpygame(image) ", "contents": "pygame.image.load(${1:fileobj}, ${2:namehint=&#8221;&#8221;})"},
+		{"trigger": "save\tpygame(image) ", "contents": "pygame.image.save(${1:Surface}, ${2:filename})"},
+		{"trigger": "tostring\tpygame(image) ", "contents": "pygame.image.tostring(${1:Surface}, ${2:format}, ${3:flipped=False})"},
+	]
+}

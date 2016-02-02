@@ -1,0 +1,13 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "contains \tpygame(scrap) ", "contents": "pygame.scrap.contains (${1:type})"},
+		{"trigger": "get \tpygame(scrap) ", "contents": "pygame.scrap.get (${1:type})"},
+		{"trigger": "get_types \tpygame(scrap) ", "contents": "pygame.scrap.get_types (${1:})"},
+		{"trigger": "init \tpygame(scrap) ", "contents": "pygame.scrap.init (${1:})"},
+		{"trigger": "lost\tpygame(scrap) ", "contents": "pygame.scrap.lost(${1:})"},
+		{"trigger": "put\tpygame(scrap) ", "contents": "pygame.scrap.put(${1:type}, ${2:data})"},
+		{"trigger": "set_mode\tpygame(scrap) ", "contents": "pygame.scrap.set_mode(${1:mode})"},
+	]
+}

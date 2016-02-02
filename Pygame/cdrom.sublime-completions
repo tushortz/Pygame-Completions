@@ -1,0 +1,27 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "CD\tpygame(cdrom) ", "contents": "pygame.cdrom.CD(${1:id})"},
+		{"trigger": "eject\tpygame(cdrom) ", "contents": "pygame.cdrom.eject(${1:})"},
+		{"trigger": "get_all\tpygame(cdrom) ", "contents": "pygame.cdrom.get_all(${1:})"},
+		{"trigger": "get_busy\tpygame(cdrom) ", "contents": "pygame.cdrom.get_busy(${1:})"},
+		{"trigger": "get_count\tpygame(cdrom) ", "contents": "pygame.cdrom.get_count(${1:})"},
+		{"trigger": "get_current\tpygame(cdrom) ", "contents": "pygame.cdrom.get_current(${1:})"},
+		{"trigger": "get_empty\tpygame(cdrom) ", "contents": "pygame.cdrom.get_empty(${1:})"},
+		{"trigger": "get_id\tpygame(cdrom) ", "contents": "pygame.cdrom.get_id(${1:})"},
+		{"trigger": "get_init\tpygame(cdrom) ", "contents": "pygame.cdrom.get_init(${1:})"},
+		{"trigger": "get_name\tpygame(cdrom) ", "contents": "pygame.cdrom.get_name(${1:})"},
+		{"trigger": "get_numtracks\tpygame(cdrom) ", "contents": "pygame.cdrom.get_numtracks(${1:})"},
+		{"trigger": "get_paused\tpygame(cdrom) ", "contents": "pygame.cdrom.get_paused(${1:})"},
+		{"trigger": "get_track_audio\tpygame(cdrom) ", "contents": "pygame.cdrom.get_track_audio(${1:track})"},
+		{"trigger": "get_track_length\tpygame(cdrom) ", "contents": "pygame.cdrom.get_track_length(${1:track})"},
+		{"trigger": "get_track_start\tpygame(cdrom) ", "contents": "pygame.cdrom.get_track_start(${1:track})"},
+		{"trigger": "init\tpygame(cdrom) ", "contents": "pygame.cdrom.init(${1:})"},
+		{"trigger": "pause\tpygame(cdrom) ", "contents": "pygame.cdrom.pause(${1:})"},
+		{"trigger": "play\tpygame(cdrom) ", "contents": "pygame.cdrom.play(${1:track}, ${2:start=None}, ${3:end=None})"},
+		{"trigger": "quit\tpygame(cdrom) ", "contents": "pygame.cdrom.quit(${1:})"},
+		{"trigger": "resume\tpygame(cdrom) ", "contents": "pygame.cdrom.resume(${1:})"},
+		{"trigger": "stop\tpygame(cdrom) ", "contents": "pygame.cdrom.stop(${1:})"},
+	]
+}

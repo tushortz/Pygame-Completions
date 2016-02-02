@@ -1,0 +1,16 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "Clock\tpygame(time) ", "contents": "pygame.time.Clock(${1:})"},
+		{"trigger": "delay\tpygame(time) ", "contents": "pygame.time.delay(${1:milliseconds})"},
+		{"trigger": "get_fps\tpygame(time) ", "contents": "pygame.time.get_fps(${1:})"},
+		{"trigger": "get_rawtime\tpygame(time) ", "contents": "pygame.time.get_rawtime(${1:})"},
+		{"trigger": "get_ticks\tpygame(time) ", "contents": "pygame.time.get_ticks(${1:})"},
+		{"trigger": "get_time\tpygame(time) ", "contents": "pygame.time.get_time(${1:})"},
+		{"trigger": "set_timer\tpygame(time) ", "contents": "pygame.time.set_timer(${1:eventid}, ${2:milliseconds})"},
+		{"trigger": "tick\tpygame(time) ", "contents": "pygame.time.tick(${1:framerate=0})"},
+		{"trigger": "tick_busy_loop\tpygame(time) ", "contents": "pygame.time.tick_busy_loop(${1:framerate=0})"},
+		{"trigger": "wait\tpygame(time) ", "contents": "pygame.time.wait(${1:milliseconds})"},
+	]
+}

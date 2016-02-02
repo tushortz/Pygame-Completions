@@ -1,0 +1,28 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "aacircle\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.aacircle(${1:surface}, ${2:x}, ${3:y}, ${4:r}, ${5:color})"},
+		{"trigger": "aaellipse\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.aaellipse(${1:surface}, ${2:x}, ${3:y}, ${4:rx}, ${5:ry}, ${6:color})"},
+		{"trigger": "aapolygon\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.aapolygon(${1:surface}, ${2:points}, ${3:color})"},
+		{"trigger": "aatrigon\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.aatrigon(${1:surface}, ${2:x1}, ${3:y1}, ${4:x2}, ${5:y2}, ${6:x3}, ${7:y3}, ${8:color})"},
+		{"trigger": "arc\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.arc(${1:surface}, ${2:x}, ${3:y}, ${4:r}, ${5:start}, ${6:end}, ${7:color})"},
+		{"trigger": "bezier\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.bezier(${1:surface}, ${2:points}, ${3:steps}, ${4:color})"},
+		{"trigger": "box\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.box(${1:surface}, ${2:rect}, ${3:color})"},
+		{"trigger": "circle\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.circle(${1:surface}, ${2:x}, ${3:y}, ${4:r}, ${5:color})"},
+		{"trigger": "ellipse\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.ellipse(${1:surface}, ${2:x}, ${3:y}, ${4:rx}, ${5:ry}, ${6:color})"},
+		{"trigger": "filled_circle\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.filled_circle(${1:surface}, ${2:x}, ${3:y}, ${4:r}, ${5:color})"},
+		{"trigger": "filled_ellipse\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.filled_ellipse(${1:surface}, ${2:x}, ${3:y}, ${4:rx}, ${5:ry}, ${6:color})"},
+		{"trigger": "filled_polygon\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.filled_polygon(${1:surface}, ${2:points}, ${3:color})"},
+		{"trigger": "filled_trigon\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.filled_trigon(${1:surface}, ${2:x1}, ${3:y1}, ${4:x2}, ${5:y2}, ${6:x3}, ${7:y3}, ${8:color})"},
+		{"trigger": "hline\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.hline(${1:surface}, ${2:x1}, ${3:x2}, ${4:y}, ${5:color})"},
+		{"trigger": "line\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.line(${1:surface}, ${2:x1}, ${3:y1}, ${4:x2}, ${5:y2}, ${6:color})"},
+		{"trigger": "pie\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.pie(${1:surface}, ${2:x}, ${3:y}, ${4:r}, ${5:start}, ${6:end}, ${7:color})"},
+		{"trigger": "pixel\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.pixel(${1:surface}, ${2:x}, ${3:y}, ${4:color})"},
+		{"trigger": "polygon\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.polygon(${1:surface}, ${2:points}, ${3:color})"},
+		{"trigger": "rectangle\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.rectangle(${1:surface}, ${2:rect}, ${3:color})"},
+		{"trigger": "textured_polygon\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.textured_polygon(${1:surface}, ${2:points}, ${3:texture}, ${4:tx}, ${5:ty})"},
+		{"trigger": "trigon\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.trigon(${1:surface}, ${2:x1}, ${3:y1}, ${4:x2}, ${5:y2}, ${6:x3}, ${7:y3}, ${8:color})"},
+		{"trigger": "vline\tpygame(gfxdraw) ", "contents": "pygame.gfxdraw.vline(${1:surface}, ${2:x}, ${3:y1}, ${4:y2}, ${5:color})"},
+	]
+}

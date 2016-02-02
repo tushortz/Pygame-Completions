@@ -1,0 +1,21 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "Joystick\tpygame(joystick) ", "contents": "pygame.joystick.Joystick(${1:id})"},
+		{"trigger": "get_axis\tpygame(joystick) ", "contents": "pygame.joystick.get_axis(${1:axis_number})"},
+		{"trigger": "get_ball\tpygame(joystick) ", "contents": "pygame.joystick.get_ball(${1:ball_number})"},
+		{"trigger": "get_button\tpygame(joystick) ", "contents": "pygame.joystick.get_button(${1:button})"},
+		{"trigger": "get_count\tpygame(joystick) ", "contents": "pygame.joystick.get_count(${1:})"},
+		{"trigger": "get_hat\tpygame(joystick) ", "contents": "pygame.joystick.get_hat(${1:hat_number})"},
+		{"trigger": "get_id\tpygame(joystick) ", "contents": "pygame.joystick.get_id(${1:})"},
+		{"trigger": "get_init\tpygame(joystick) ", "contents": "pygame.joystick.get_init(${1:})"},
+		{"trigger": "get_name\tpygame(joystick) ", "contents": "pygame.joystick.get_name(${1:})"},
+		{"trigger": "get_numaxes\tpygame(joystick) ", "contents": "pygame.joystick.get_numaxes(${1:})"},
+		{"trigger": "get_numballs\tpygame(joystick) ", "contents": "pygame.joystick.get_numballs(${1:})"},
+		{"trigger": "get_numbuttons\tpygame(joystick) ", "contents": "pygame.joystick.get_numbuttons(${1:})"},
+		{"trigger": "get_numhats\tpygame(joystick) ", "contents": "pygame.joystick.get_numhats(${1:})"},
+		{"trigger": "init\tpygame(joystick) ", "contents": "pygame.joystick.init(${1:})"},
+		{"trigger": "quit\tpygame(joystick) ", "contents": "pygame.joystick.quit(${1:})"},
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "BufferProxy\tpygame(BufferProxy) ", "contents": "pygame.BufferProxy.BufferProxy(${1:<parent>})"},
+		{"trigger": "length\tpygame(BufferProxy) ", "contents": "pygame.BufferProxy.length"},
+		{"trigger": "parent\tpygame(BufferProxy) ", "contents": "pygame.BufferProxy.parent"},
+		{"trigger": "raw\tpygame(BufferProxy) ", "contents": "pygame.BufferProxy.raw"},
+	]
+}

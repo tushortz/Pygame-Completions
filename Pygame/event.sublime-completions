@@ -1,0 +1,32 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "Event\tpygame(event) ", "contents": "pygame.event.Event(${1:type}, ${2:**attributes})"},
+		{"trigger": "Event\tpygame(event) ", "contents": "pygame.event.Event(${1:type}, ${2:dict})"},
+		{"trigger": "__dict__\tpygame(event) ", "contents": "pygame.event.__dict__"},
+		{"trigger": "clear\tpygame(event) ", "contents": "pygame.event.clear(${1:})"},
+		{"trigger": "clear\tpygame(event) ", "contents": "pygame.event.clear(${1:type})"},
+		{"trigger": "clear\tpygame(event) ", "contents": "pygame.event.clear(${1:typelist})"},
+		{"trigger": "event_name\tpygame(event) ", "contents": "pygame.event.event_name(${1:type})"},
+		{"trigger": "get\tpygame(event) ", "contents": "pygame.event.get(${1:})"},
+		{"trigger": "get\tpygame(event) ", "contents": "pygame.event.get(${1:type})"},
+		{"trigger": "get\tpygame(event) ", "contents": "pygame.event.get(${1:typelist})"},
+		{"trigger": "get_blocked\tpygame(event) ", "contents": "pygame.event.get_blocked(${1:type})"},
+		{"trigger": "get_grab\tpygame(event) ", "contents": "pygame.event.get_grab(${1:})"},
+		{"trigger": "peek\tpygame(event) ", "contents": "pygame.event.peek(${1:type})"},
+		{"trigger": "peek\tpygame(event) ", "contents": "pygame.event.peek(${1:typelist})"},
+		{"trigger": "poll\tpygame(event) ", "contents": "pygame.event.poll(${1:})"},
+		{"trigger": "post\tpygame(event) ", "contents": "pygame.event.post(${1:Event})"},
+		{"trigger": "pump\tpygame(event) ", "contents": "pygame.event.pump(${1:})"},
+		{"trigger": "set_allowed\tpygame(event) ", "contents": "pygame.event.set_allowed(${1:None})"},
+		{"trigger": "set_allowed\tpygame(event) ", "contents": "pygame.event.set_allowed(${1:type})"},
+		{"trigger": "set_allowed\tpygame(event) ", "contents": "pygame.event.set_allowed(${1:typelist})"},
+		{"trigger": "set_blocked\tpygame(event) ", "contents": "pygame.event.set_blocked(${1:None})"},
+		{"trigger": "set_blocked\tpygame(event) ", "contents": "pygame.event.set_blocked(${1:type})"},
+		{"trigger": "set_blocked\tpygame(event) ", "contents": "pygame.event.set_blocked(${1:typelist})"},
+		{"trigger": "set_grab\tpygame(event) ", "contents": "pygame.event.set_grab(${1:bool})"},
+		{"trigger": "type\tpygame(event) ", "contents": "pygame.event.type"},
+		{"trigger": "wait\tpygame(event) ", "contents": "pygame.event.wait(${1:})"},
+	]
+}

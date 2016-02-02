@@ -1,0 +1,31 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "Rect\tpygame(Rect) ", "contents": "pygame.Rect.Rect(${1:left}, ${2:top})"},
+		{"trigger": "Rect\tpygame(Rect) ", "contents": "pygame.Rect.Rect(${1:left}, ${2:top}, ${3:width}, ${4:height})"},
+		{"trigger": "Rect\tpygame(Rect) ", "contents": "pygame.Rect.Rect(${1:object})"},
+		{"trigger": "clamp\tpygame(Rect) ", "contents": "pygame.Rect.clamp(${1:Rect})"},
+		{"trigger": "clamp_ip\tpygame(Rect) ", "contents": "pygame.Rect.clamp_ip(${1:Rect})"},
+		{"trigger": "clip\tpygame(Rect) ", "contents": "pygame.Rect.clip(${1:Rect})"},
+		{"trigger": "collidedict\tpygame(Rect) ", "contents": "pygame.Rect.collidedict(${1:dict})"},
+		{"trigger": "collidedictall\tpygame(Rect) ", "contents": "pygame.Rect.collidedictall(${1:dict})"},
+		{"trigger": "collidelist\tpygame(Rect) ", "contents": "pygame.Rect.collidelist(${1:list})"},
+		{"trigger": "collidelistall\tpygame(Rect) ", "contents": "pygame.Rect.collidelistall(${1:list})"},
+		{"trigger": "collidepoint\tpygame(Rect) ", "contents": "pygame.Rect.collidepoint(${1:x}, ${2:y})"},
+		{"trigger": "collidepoint\tpygame(Rect) ", "contents": "pygame.Rect.collidepoint(${1:x}, ${2:y})"},
+		{"trigger": "colliderect\tpygame(Rect) ", "contents": "pygame.Rect.colliderect(${1:Rect})"},
+		{"trigger": "contains\tpygame(Rect) ", "contents": "pygame.Rect.contains(${1:Rect})"},
+		{"trigger": "copy\tpygame(Rect) ", "contents": "pygame.Rect.copy(${1:})"},
+		{"trigger": "fit\tpygame(Rect) ", "contents": "pygame.Rect.fit(${1:Rect})"},
+		{"trigger": "inflate\tpygame(Rect) ", "contents": "pygame.Rect.inflate(${1:x}, ${2:y})"},
+		{"trigger": "inflate_ip\tpygame(Rect) ", "contents": "pygame.Rect.inflate_ip(${1:x}, ${2:y})"},
+		{"trigger": "move\tpygame(Rect) ", "contents": "pygame.Rect.move(${1:x}, ${2:y})"},
+		{"trigger": "move_ip\tpygame(Rect) ", "contents": "pygame.Rect.move_ip(${1:x}, ${2:y})"},
+		{"trigger": "normalize\tpygame(Rect) ", "contents": "pygame.Rect.normalize(${1:})"},
+		{"trigger": "union\tpygame(Rect) ", "contents": "pygame.Rect.union(${1:Rect})"},
+		{"trigger": "union_ip\tpygame(Rect) ", "contents": "pygame.Rect.union_ip(${1:Rect})"},
+		{"trigger": "unionall\tpygame(Rect) ", "contents": "pygame.Rect.unionall(${1:Rect_sequence})"},
+		{"trigger": "unionall_ip\tpygame(Rect) ", "contents": "pygame.Rect.unionall_ip(${1:Rect_sequence})"},
+	]
+}

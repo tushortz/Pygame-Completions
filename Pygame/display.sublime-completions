@@ -1,0 +1,30 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "Info\tpygame(display) ", "contents": "pygame.display.Info(${1:})"},
+		{"trigger": "flip\tpygame(display) ", "contents": "pygame.display.flip(${1:})"},
+		{"trigger": "get_active\tpygame(display) ", "contents": "pygame.display.get_active(${1:})"},
+		{"trigger": "get_caption\tpygame(display) ", "contents": "pygame.display.get_caption(${1:})"},
+		{"trigger": "get_driver\tpygame(display) ", "contents": "pygame.display.get_driver(${1:})"},
+		{"trigger": "get_init\tpygame(display) ", "contents": "pygame.display.get_init(${1:})"},
+		{"trigger": "get_surface\tpygame(display) ", "contents": "pygame.display.get_surface(${1:})"},
+		{"trigger": "get_wm_info\tpygame(display) ", "contents": "pygame.display.get_wm_info(${1:})"},
+		{"trigger": "gl_get_attribute\tpygame(display) ", "contents": "pygame.display.gl_get_attribute(${1:flag})"},
+		{"trigger": "gl_set_attribute\tpygame(display) ", "contents": "pygame.display.gl_set_attribute(${1:flag}, ${2:value})"},
+		{"trigger": "iconify\tpygame(display) ", "contents": "pygame.display.iconify(${1:})"},
+		{"trigger": "init\tpygame(display) ", "contents": "pygame.display.init(${1:})"},
+		{"trigger": "list_modes\tpygame(display) ", "contents": "pygame.display.list_modes(${1:depth=0}, ${2:flags=pygame.FULLSCREEN})"},
+		{"trigger": "mode_ok\tpygame(display) ", "contents": "pygame.display.mode_ok(${1:size}, ${2:flags=0}, ${3:depth=0})"},
+		{"trigger": "quit\tpygame(display) ", "contents": "pygame.display.quit(${1:})"},
+		{"trigger": "set_caption\tpygame(display) ", "contents": "pygame.display.set_caption(${1:title}, ${2:icontitle=None})"},
+		{"trigger": "set_gamma\tpygame(display) ", "contents": "pygame.display.set_gamma(${1:red}, ${2:green=None}, ${3:blue=None})"},
+		{"trigger": "set_gamma_ramp\tpygame(display) ", "contents": "pygame.display.set_gamma_ramp(${1:red}, ${2:green}, ${3:blue})"},
+		{"trigger": "set_icon\tpygame(display) ", "contents": "pygame.display.set_icon(${1:Surface})"},
+		{"trigger": "set_mode\tpygame(display) ", "contents": "pygame.display.set_mode(${1:resolution=0}, ${2:0})"},
+		{"trigger": "set_palette\tpygame(display) ", "contents": "pygame.display.set_palette(${1:palette=None})"},
+		{"trigger": "toggle_fullscreen\tpygame(display) ", "contents": "pygame.display.toggle_fullscreen(${1:})"},
+		{"trigger": "update\tpygame(display) ", "contents": "pygame.display.update(${1:rectangle=None})"},
+		{"trigger": "update\tpygame(display) ", "contents": "pygame.display.update(${1:rectangle_list})"},
+	]
+}

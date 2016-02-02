@@ -1,0 +1,12 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "array\tpygame(sndarray) ", "contents": "pygame.sndarray.array(${1:Sound})"},
+		{"trigger": "get_arraytype \tpygame(sndarray) ", "contents": "pygame.sndarray.get_arraytype (${1:})"},
+		{"trigger": "get_arraytypes \tpygame(sndarray) ", "contents": "pygame.sndarray.get_arraytypes (${1:})"},
+		{"trigger": "make_sound\tpygame(sndarray) ", "contents": "pygame.sndarray.make_sound(${1:array})"},
+		{"trigger": "samples\tpygame(sndarray) ", "contents": "pygame.sndarray.samples(${1:Sound})"},
+		{"trigger": "use_arraytype \tpygame(sndarray) ", "contents": "pygame.sndarray.use_arraytype (${1:arraytype})"},
+	]
+}

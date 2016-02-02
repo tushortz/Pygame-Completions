@@ -1,0 +1,20 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "Color\tpygame(Color) ", "contents": "pygame.Color.Color(${1:name})"},
+		{"trigger": "Color\tpygame(Color) ", "contents": "pygame.Color.Color(${1:r}, ${2:g}, ${3:b}, ${4:a})"},
+		{"trigger": "Color\tpygame(Color) ", "contents": "pygame.Color.Color(${1:rgbvalue})"},
+		{"trigger": "a\tpygame(Color) ", "contents": "pygame.Color.a"},
+		{"trigger": "b\tpygame(Color) ", "contents": "pygame.Color.b"},
+		{"trigger": "cmy\tpygame(Color) ", "contents": "pygame.Color.cmy"},
+		{"trigger": "correct_gamma \tpygame(Color) ", "contents": "pygame.Color.correct_gamma (${1:gamma})"},
+		{"trigger": "g\tpygame(Color) ", "contents": "pygame.Color.g"},
+		{"trigger": "hsla\tpygame(Color) ", "contents": "pygame.Color.hsla"},
+		{"trigger": "hsva\tpygame(Color) ", "contents": "pygame.Color.hsva"},
+		{"trigger": "i1i2i3\tpygame(Color) ", "contents": "pygame.Color.i1i2i3"},
+		{"trigger": "normalize\tpygame(Color) ", "contents": "pygame.Color.normalize(${1:})"},
+		{"trigger": "r\tpygame(Color) ", "contents": "pygame.Color.r"},
+		{"trigger": "set_length\tpygame(Color) ", "contents": "pygame.Color.set_length(${1:len})"},
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"scope": "source.python",
+	"completions":
+	[
+		{"trigger": "average_color\tpygame(transform) ", "contents": "pygame.transform.average_color(${1:Surface}, ${2:Rect = None})"},
+		{"trigger": "average_surfaces\tpygame(transform) ", "contents": "pygame.transform.average_surfaces(${1:Surfaces}, ${2:DestSurface = None}, ${3:palette_colors = 1})"},
+		{"trigger": "chop\tpygame(transform) ", "contents": "pygame.transform.chop(${1:Surface}, ${2:rect})"},
+		{"trigger": "flip\tpygame(transform) ", "contents": "pygame.transform.flip(${1:Surface}, ${2:xbool}, ${3:ybool})"},
+		{"trigger": "get_smoothscale_backend\tpygame(transform) ", "contents": "pygame.transform.get_smoothscale_backend(${1:})"},
+		{"trigger": "laplacian\tpygame(transform) ", "contents": "pygame.transform.laplacian(${1:Surface}, ${2:DestSurface = None})"},
+		{"trigger": "rotate\tpygame(transform) ", "contents": "pygame.transform.rotate(${1:Surface}, ${2:angle})"},
+		{"trigger": "rotozoom\tpygame(transform) ", "contents": "pygame.transform.rotozoom(${1:Surface}, ${2:angle}, ${3:scale})"},
+		{"trigger": "scale\tpygame(transform) ", "contents": "pygame.transform.scale(${1:Surface}, ${2:width}, ${3:height})"},
+		{"trigger": "scale2x\tpygame(transform) ", "contents": "pygame.transform.scale2x(${1:Surface}, ${2:DestSurface = None})"},
+		{"trigger": "set_smoothscale_backend\tpygame(transform) ", "contents": "pygame.transform.set_smoothscale_backend(${1:type})"},
+		{"trigger": "smoothscale\tpygame(transform) ", "contents": "pygame.transform.smoothscale(${1:Surface}, ${2:width}, ${3:height})"},
+		{"trigger": "threshold\tpygame(transform) ", "contents": "pygame.transform.threshold(${1:DestSurface}, ${2:Surface}, ${3:color}, ${4:threshold = 0}, ${5:0}, ${5:0}, ${5:0}, )"},
+	]
+}
