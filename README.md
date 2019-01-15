@@ -11,9 +11,7 @@ A sublime text completion for pygame in Python
 
 ### Using Package Control's Repository
 
-Go to `Preferences` --> `Package Control` --> `Add Repository` --> then type into the textbox `https://github.com/tushortz/Pygame-Completions`
-
-After doing this, then go to: `Preferences` --> `Package Control` --> `Install Package` --> then search `Pygame-Completions` and click it.
+Go to `Preferences` --> `Package Control` --> `Install package` --> then type into the textbox `Pygame Completions`
 
 The package will be installed and ready for use.
 
